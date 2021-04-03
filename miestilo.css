@@ -1,0 +1,30 @@
+/* Comentario en CSS */
+body{
+
+    background-color: aquamarine;
+    color: rgb(61, 59, 59);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 14em;
+
+}
+h1{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 42px;
+}
+ul{
+    position: absolute;
+    top: 5em;
+    left: 1em;
+    width: 9em;
+    font-size: 20px;
+}
+img{
+    position: absolute;
+    top: 6em;
+    left: 47.5em;
+    width: 26em 
+}
+p{
+    font-size: 20px;
+}
